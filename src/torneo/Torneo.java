@@ -6,7 +6,7 @@ package torneo;
 
 /**
  *
- * @author Irene
+ * @author Irene Procopio
  */
 public class Torneo {
 
@@ -15,6 +15,7 @@ public class Torneo {
      */
     public static void main(String[] args) {
         System.out.println("Inizio Torneo!");
+        System.out.println("Fine Torneo!");
     }
     
 }
