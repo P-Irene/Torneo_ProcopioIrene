@@ -7,6 +7,7 @@ package torneo;
 /**
  *
  * @author Irene Procopio
+ * @see Scheda esercitazione
  */
 public class Torneo {
 
